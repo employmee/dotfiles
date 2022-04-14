@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = wanxinpua@yahoo.com.sg
+	name = wanxin pua
